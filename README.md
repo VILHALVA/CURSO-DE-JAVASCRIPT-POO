@@ -24,7 +24,7 @@
 * É importante notar que, embora o nome "JavaScript" possa sugerir uma relação próxima com a linguagem de programação Java, as duas são linguagens independentes com propósitos e características diferentes. O JavaScript é uma linguagem interpretada e dinamicamente tipada, enquanto o Java é uma linguagem compilada e estaticamente tipada.
 * Em resumo, o JavaScript foi criado por Brendan Eich e é uma linguagem de programação amplamente usada no desenvolvimento web. Ela fornece recursos interativos e dinâmicos às páginas da web e é utilizada para desenvolver uma variedade de aplicativos, desde websites interativos até aplicativos móveis, jogos e muito mais.
 
-## CARACTERISTICAS:
+## REGRAS DO JAVASCRIPT:
 1. JavaScript é uma linguagem de programação amplamente utilizada que pode ser executada em diferentes ambientes, sendo dois dos principais o navegador web e o ambiente Node.js no console. Aqui estão algumas informações sobre essas duas abordagens:
 
 **JavaScript no Navegador (com HTML e DOM)**:
