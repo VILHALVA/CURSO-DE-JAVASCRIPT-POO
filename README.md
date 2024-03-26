@@ -108,3 +108,4 @@ Este padrão é frequentemente usado em módulos Node.js para encapsular o escop
 - [VEJA A DOCUMENTAÇÃO](https://devdocs.io/javascript/)
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:JAVASCRIPT)
